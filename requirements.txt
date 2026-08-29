@@ -1,0 +1,7 @@
+sentence-transformers
+chromadb
+groq
+python-dotenv
+PyGithub
+tree-sitter
+tree-sitter-python
