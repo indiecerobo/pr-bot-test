@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from github import Github
 
 # Reuse everything from step 6 - the agentic review function
-from step6 import agentic_review
+from agent import agentic_review
 
 load_dotenv()
 
